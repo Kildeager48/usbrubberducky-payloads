@@ -1,0 +1,19 @@
+REM Opening cmd
+CONTROL ESCAPE
+DELAY 50
+STRING Screen Resolution
+DELAY 200
+ENTER
+REM Searching for Screen Resolution
+DELAY 1000
+TAB
+200
+ENTER
+DOWN
+DOWN
+DOWN
+ENTER
+TAB
+2000
+ENTER
+REM Tabbing through the settings and then confirming our choice
